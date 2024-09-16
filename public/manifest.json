@@ -1,6 +1,17 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
+  "description": "A sample app built with Create React App",
+  "lang": "en",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "author": "Create React App",
+  "permissions": ["storage", "geolocation"],
+  "offline_enabled": false,
   "icons": [
     {
       "src": "favicon.ico",
